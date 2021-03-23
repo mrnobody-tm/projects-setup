@@ -1,4 +1,4 @@
-# Setup Proiect iTEC
+# Set-up Proiect iTEC
 
  
 
