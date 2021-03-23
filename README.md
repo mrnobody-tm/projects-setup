@@ -1,12 +1,12 @@
-# Setup Proiect ITec
+# Setup Proiect iTEC
 
  
 
- - Pentru inceput,trebuie sa dati **Fork** la repository-ul cu numele dumneavoastra de pe butonul de sub profilul din dreapta,pentru a va crea o clona a proiectului ITec in profilul dumneavoastra.
+ - Pentru început,trebuie să dai **Fork** la repository-ul cu numele echipei tale / proiectului tău cu ajutorul butonului de sub profilul propriu (colț dreapta sus), pentru a îți crea o clona a proiectului iTEC in profilul tău.
 ![Fork here](https://i.ibb.co/8r7f1xZ/fork.jpg)
- - Dupa ce sunteti redirectionati la Repository-ul din contul dumneavoastra,trebuie sa faceti **Clone** prin apasarea butonului   **Code** si copierea linkului .
+ - După ce ești redirecționat la Repository-ul nou creat, trebuie să faci o **clonă**( **Clone** ) prin apăsarea butonului **Code** și să copiezi link-ul.
 ![enter image description here](https://i.ibb.co/1nFWmkq/Clone.jpg)
- - Dupa ce ati copiat linkul ,aveti mai multe metode prin care puteti lua local repository-ul pentru a-l putea edita. Puteti folosi **Github Desktop** sau direct din **Git Bash**  (Pentru ambele metode trebuie sa aveti instalat Git)
+ - După ce ai copiat link-ul, ai mai multe metode prin care poți lua local repository-ul pentru a îl putea edita. Poți folosi **Github Desktop** sau direct din **Git Bash**.  (Pentru ambele metode trebuie să ai instalat **Git**.)
 ## Git Clone din Git Bash
  -  Deschide Git Bash .
     
@@ -28,13 +28,13 @@
     > remove: Total 10 (delta 1), reused 10 (delta 1)
     > Unpacking objects: 100% (10/10), done.
     ```
-## Dupa Clonarea Proiectului
- - Odata ce aveti repository-ul local,puteti sa va apucati de lucru si sa va creati folderele necesare in locul unde ati clonat repository-ul
- - Cand sunteti gata cu proiectul,faceti un commit si urcati tot codul pe GitHub
- - Pentru a va putea evalua ce ati lucrat,trebuie sa creati un **Pull Request** din repository-ul dumneavoastra catre cel al concursului ,folosind butonul de **Pull Requests**
+## După clonarea proiectului
+ - Odată ce ai repository-ul local, poți începe să lucrezi și să îți creezi folderele necesare în locul unde ai clonat repository-ul.
+ - Când ai terminat proiectul, poți urca codul acestuia pe GitHUB, prin operațiile de **commit** și **push**.
+ - Pentru a putea fi jurizați, trebuie să creați un **Pull Request** din repository-ul vostru către cel al concursului, folosind secțiunea de **Pull Requests**.
  ![enter image description here](https://i.ibb.co/VLxtbcZ/pull-request.jpg)
- - apoi pe butonul de **New Pull Request**
+ - Apeși pe butonul **New Pull Request**
  ![enter image description here](https://i.ibb.co/4j1NGL0/newpullrequest.jpg)
-- si in final pe **Create Pull Request** ,verificati ca ruta de la base repository sa fie **itec-ligaac/**
+- Verificați ca ruta de la ”base repository” să fie **itec-ligaac/** și apoi apasă pe **Create Pull Request**.
 ![enter image description here](https://i.ibb.co/2ST1Kwn/createpullrequest.jpg)
 
