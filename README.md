@@ -38,3 +38,6 @@
 - Verificați ca ruta de la ”base repository” să fie **itec-ligaac/** și apoi apasă pe **Create Pull Request**.
 ![enter image description here](https://i.ibb.co/2ST1Kwn/createpullrequest.jpg)
 
+## Sfaturi și recomandări
+ - Odată ce aveți părți din proiect de care sunteți siguri pe ele (nu au erori, codul este compilabil), vă recomandăm să dați *commit* cu acestea, împreună cu mici descrieri a ce reprezintă acea bucată de cod.
+ - Proiectele voastre ar trebui să fie originale.
